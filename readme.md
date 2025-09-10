@@ -27,5 +27,4 @@ A WordPress theme designed for flexibility and easy customization.
 For issues or feature requests, open an issue on the repository or contact the theme author.
 
 ## License
-
-This theme is released under the [MIT License](LICENSE).
+This theme is licensed under the GNU General Public License v2 or later.
