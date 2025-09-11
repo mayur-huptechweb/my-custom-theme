@@ -1,6 +1,7 @@
 
 <?php
 
+// Exit if accessed directly.
 if (! defined('MY_THEME_VERSION')) {
     define('MY_THEME_VERSION', '1.0.0');
 }
